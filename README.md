@@ -1,7 +1,20 @@
-### Hi there 👋
+# Hi, I'm Baptiste Charier! 👋
+
+![<Bcharier>'s Stats](https://github-readme-stats.vercel.app/api?username=Bcharier&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+ ## 🏆 Achievements
+
+## 📬 Get in Touch
 
 <!--
-**Bcharier/Bcharier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
