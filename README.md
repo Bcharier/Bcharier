@@ -4,14 +4,14 @@
 
 
 ## Stack Technique
-[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,php,symfony,java,sass,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,php,symfony,java,mysql,sass,git,figma)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
 ## 🏆 Achievements
 
 ## 📬 Contactez moi !
- [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/baptiste-charier/)[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:charier.ba@gmail.com) 
+ [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/baptiste-charier/)         [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:charier.ba@gmail.com)
 
 <!--
 
