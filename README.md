@@ -13,7 +13,7 @@
  ## 🏆 Achievements
 
 ## 📬 Get in Touch
- https://www.linkedin.com/in/baptiste-charier/
+ [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/baptiste-charier/)
 <!--
 
 Here are some ideas to get you started:
