@@ -6,14 +6,14 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,angular,php,html,css,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,php,symfony,java,sass,git,figma)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
  ## 🏆 Achievements
 
 ## 📬 Get in Touch
-
+ https://www.linkedin.com/in/baptiste-charier/
 <!--
 
 Here are some ideas to get you started:
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
