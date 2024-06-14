@@ -1,19 +1,18 @@
-# Hi, I'm Baptiste Charier! 👋
+# Bonjour, je suis Baptiste Charier! 👋
 
-![<Bcharier>'s Stats]
-
-## 🚀 About Me
+## 🚀 A propos de moi
 
 
-## Tech Stack
+## Stack Technique
 [![My Skills](https://skillicons.dev/icons?i=js,ts,angular,php,symfony,java,sass,git,figma)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
- ## 🏆 Achievements
+## 🏆 Achievements
 
-## 📬 Get in Touch
- [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/baptiste-charier/)
+## 📬 Contactez moi !
+ [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/baptiste-charier/)[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:charier.ba@gmail.com) 
+
 <!--
 
 Here are some ideas to get you started:
