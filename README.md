@@ -1,7 +1,7 @@
 # Bonjour, je suis Baptiste Charier! 👋
 
 ## 🚀 A propos de moi
-Développeur web PHP & JS / Angular à la recherche de ma prochaine aventure professionnelle :)
+Développeur web PHP Symfony & JS / Angular à la recherche de ma prochaine aventure professionnelle :)
 
 ## Stack Technique
 [![My Skills](https://skillicons.dev/icons?i=js,ts,angular,php,symfony,java,mysql,sass,git,figma)](https://skillicons.dev)
